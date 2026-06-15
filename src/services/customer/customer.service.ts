@@ -1,6 +1,6 @@
 import type { Customer } from "../../types/customer.types";
 
-const BASE = "http://localhost:3001";
+const BASE = "/api";
 
 export const customerService = {
   getAll: async (): Promise<Customer[]> => {

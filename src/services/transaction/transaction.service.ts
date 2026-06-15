@@ -1,6 +1,6 @@
 import type { Transaction, Package } from "../../types/transaction.types";
 
-const BASE = "http://localhost:3001";
+const BASE = "/api";
 
 export const transactionService = {
   getAll: async (): Promise<Transaction[]> => {
