@@ -2,10 +2,10 @@
 
 E-commerce prototype for internet data package purchasing, built as a frontend technical test submission.
 
-**Demo:** [Live on Vercel](#) ← ganti dengan link Vercel kamu
+**Demo:** https://msholehhudin-wdp-frontend.vercel.app
 **Credentials:** `admin` / `admin123`
-**Start date:** 15 Juni 2025, 09.00 WIB
-**End date:** 15 Juni 2025, 17.00 WIB
+**Start date:** 13 Juni 2025, 20.00 WIB
+**End date:** 15 Juni 2025, 13.00 WIB
 
 ---
 
