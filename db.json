@@ -1,0 +1,68 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@mail.com",
+      "phone": "08123456789"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@mail.com",
+      "phone": "08987654321"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "packageName": "Paket 10GB",
+      "price": 50000,
+      "status": "success",
+      "date": "2025-06-01"
+    },
+    {
+      "id": 2,
+      "customerId": 2,
+      "packageName": "Paket 20GB",
+      "price": 85000,
+      "status": "pending",
+      "date": "2025-06-05"
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "name": "Paket 5GB",
+      "price": 25000,
+      "description": "5GB / 30 hari"
+    },
+    {
+      "id": 2,
+      "name": "Paket 10GB",
+      "price": 50000,
+      "description": "10GB / 30 hari"
+    },
+    {
+      "id": 3,
+      "name": "Paket 20GB",
+      "price": 85000,
+      "description": "20GB / 30 hari"
+    },
+    {
+      "id": 4,
+      "name": "Paket Unlimited",
+      "price": 150000,
+      "description": "Unlimited / 30 hari"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "name": "Muhammad Sholehudin"
+    }
+  ]
+}
